@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["#discordaçılsın"];
+const statusMessages = ["Arkarium Studios"];
 
 
 let currentIndex = 0;
